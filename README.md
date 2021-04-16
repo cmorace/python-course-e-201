@@ -6,3 +6,5 @@ If you have any questions about the course, feel free to contact me at cmorace.p
 ## Homework
 
 - Homework 1 (due April 3rd) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmorace/python-course-e-201/main?filepath=Homework%2FPython%20E-201%20Homework%201.ipynb)
+
+- Homework 1 (due April 3rd) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmorace/python-course-e-201/main?filepath=Homework%2FPython%20E-201%20Homework%202.ipynb)
