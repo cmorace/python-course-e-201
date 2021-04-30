@@ -17,7 +17,7 @@ Hints:
 
 Extend your previous program so that the sprites slowly fall down to the bottom of the screen, as shown in this video.
 
-<video controls src="part2.mp4" />
+<video controls src="part2.mp4"> </video>
 
 ## Part 3
 
@@ -28,4 +28,4 @@ Extend your previous program so that
 
 as shown in this video.
 
-<video controls src="part3.mp4" />
+<video controls src="part3.mp4"> </video>
